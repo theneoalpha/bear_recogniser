@@ -1,0 +1,5 @@
+0 Teddy Bear
+1 Polar Bear
+2 Panda
+3 Grizzly
+4 Black Bear
