@@ -13,7 +13,7 @@
 <p float="left">
 
 # Screen
-  <img src="./images/view.png"  />
+  <img src="https://github.com/theneoalpha/bear_recogniser/blob/main/images/view.png"  />
 
 
  
