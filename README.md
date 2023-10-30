@@ -13,8 +13,8 @@
 <p float="left">
 
 # Screen
-  <img src="https://github.com/theneoalpha/bear_recogniser/blob/main/images/view.png"  />
-
+  <img src="https://media.licdn.com/dms/image/D4D2DAQFiXZVX0XXmVA/profile-treasury-image-shrink_800_800/0/1698591701319?e=1699282800&v=beta&t=GhkSAh9nkJQ0yVXQMTFJuYTVSVOnoAiHxmpAmXLbSbs"  />
+<img src="https://media.licdn.com/dms/image/D4D2DAQE7IPIoP0Wtig/profile-treasury-image-shrink_800_800/0/1698591756686?e=1699282800&v=beta&t=Enx8qGtx1-Mkltiz4qOiMJeQk3r5NYJubw2EiO09BbU" />
 
  
 </p>
